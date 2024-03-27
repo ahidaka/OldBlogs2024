@@ -4,13 +4,20 @@ These are blog drafts, memorandums, and short programs that I used to write. I w
 
 [2024/03/20 Windows 7とドライバーの英語記事](2024-0320.md)
 
+今季はぱすか
 
 [2024/03/14 USBView のインストールと使い方](20243-0314.md)
 
+今季はぱすか
 
 [2024/03/10 Windows ドライバー開発セミナー](2024-0310.md)
 https://seminar.cqpub.co.jp/ccm/ES23-0142
 
+今季はぱすか
+
+**ここまで**
+**ここまで**
+**ここまで**
 
 [2024/02/25 Win32 APIの顛末](2024-0225.md)
 （インターフェース連載）
@@ -25,6 +32,7 @@ https://seminar.cqpub.co.jp/ccm/ES23-0142
 [2024/02/16 TPM1.2攻略](2024-0216.md)
 
 https://www.youtube.com/watch?v=pDWqd0earYA
+
 
 [2024/02/13 Windows 7 更新の更新](2024-0213.md)
 
